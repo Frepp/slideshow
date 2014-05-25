@@ -12,12 +12,13 @@ The html-page should look something like this, the id needs to be slideshow.
 
 ```html
 <div id='slideshow'>
-<img src = 'img1'>
-<img src = 'img2'>
-<img src = 'img3'>
+<img src ='img1'>
+<img src ='img2'>
+<img src ='img3'>
+...
 </div>
 ```
 
-[Here](http://www.student.bth.se/~frpe13/javascript/kmom03/slideshow.php) you can find an sample installation. 
+[Here](http://www.student.bth.se/~frpe13/javascript/kmom03/slideshow.php) you can find a sample installation. 
 
 Best of luck!
